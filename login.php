@@ -44,7 +44,7 @@
                                         </div>
                                         <button class="account__login--forgot" type="submit">Forgot Your Password?</button>
                                     </div>
-                                    <button class="account__login--btn primary__btn" type="submit"><a href="dashboard.php">Login
+                                    <button class="account__login--btn primary__btn" type="submit"><a href="my-account.php">Login
                                     </a></button>
                                     <div class="account__login--divide">
                                         <span class="account__login--divide__text">OR</span>
